@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DI.LooseCoupling/DI.LooseCoupling.csproj" />
+  <Project Path="DI.LooseCouplingController/DI.LooseCouplingController.csproj" Id="621c049f-7553-4559-8a46-7053ad78cb38" />
+  <Project Path="DI.TightCoupling/DI.TightCoupling.csproj" />
+  <Project Path="DI.TightCouplingController/DI.TightCouplingController.csproj" />
+</Solution>
